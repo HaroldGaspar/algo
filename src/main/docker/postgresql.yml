@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+  app-postgresql:
+    container_name: app.postgresql
+    image: postgres:9.5.5
+    #volumes:
+    #   --/volumes/app/postgresql/:/var/lib/postgresql/
+    environment:
+      - POSTGRES_DB = isil_db
+      - POSTGRES_USER = isil
+      - POSTGRES_PASSWORD = 1234
+    ports:
+      - 5432:5432
