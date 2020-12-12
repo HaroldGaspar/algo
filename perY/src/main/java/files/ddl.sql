@@ -8,7 +8,7 @@ CREATE TABLE Docente(
 					  constraint Docente_pk
 						primary key (Id)
 );
-CREATE TABLE Proveedor(
+CREATE TABLE Supplier(
                       Id INT AUTO_INCREMENT,
                       RazonSocial VARCHAR(30),
                       Ruc VARCHAR(30),

@@ -1,4 +1,4 @@
-package coladocente;
+package pilalibro;
 
 public class PilaTest {
     public static void main(String[] args) {

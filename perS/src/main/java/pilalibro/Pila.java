@@ -1,4 +1,4 @@
-package coladocente;
+package pilalibro;
 
 import daos.LibroDAOImpl;
 

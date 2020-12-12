@@ -1,6 +1,6 @@
 package daos;
 
-import coladocente.Libro;
+import pilalibro.Libro;
 
 interface ILibrosDao extends ICRUD<Libro>{
 }

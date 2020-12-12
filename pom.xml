@@ -10,7 +10,10 @@
     <modules>
         <module>perS</module>
         <module>perY</module>
-        <module>cola</module>
+        <module>vendedores</module>
+        <module>bt"</module>
+        <module>bt</module>
+        <module>lto</module>
     </modules>
 
     <packaging>pom</packaging>

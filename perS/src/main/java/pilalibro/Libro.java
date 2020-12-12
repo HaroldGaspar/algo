@@ -1,4 +1,4 @@
-package coladocente;
+package pilalibro;
 
 public class Libro {
     private Integer id;

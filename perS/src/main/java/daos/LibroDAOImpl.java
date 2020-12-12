@@ -4,7 +4,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import coladocente.Libro;
+import pilalibro.Libro;
 import connectiondb.ConnectionDB;
 import java.sql.ResultSet;
 import java.sql.PreparedStatement;
